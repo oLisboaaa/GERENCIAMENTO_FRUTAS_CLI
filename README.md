@@ -44,3 +44,6 @@ git clone https://github.com/oLisboaaa/GERENCIAMENTO_FRUTAS_CLI
 ## ✒️ Autor
 
 * **Marcelo Lisboa** - *Trabalho Inicial* - Tabela de Frutas
+
+![Screenshot_1](https://github.com/user-attachments/assets/446b2b95-7855-4de9-9533-f2a124fb3ad5)
+
